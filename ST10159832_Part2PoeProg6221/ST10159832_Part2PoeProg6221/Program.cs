@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            
+
+            Layout layout = new Layout();
+            layout.ProgramLayout();
         }
     }
 }
